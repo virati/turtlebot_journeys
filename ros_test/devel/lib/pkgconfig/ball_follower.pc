@@ -1,0 +1,8 @@
+prefix=/home/virati/projects/ros_test/devel
+
+Name: ball_follower
+Description: Description of ball_follower
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/virati/projects/ros_test/devel/lib 
+Requires: 

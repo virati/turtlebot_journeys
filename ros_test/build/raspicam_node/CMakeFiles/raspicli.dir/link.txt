@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/virati/projects/ros_test/devel/lib/libraspicli.a  CMakeFiles/raspicli.dir/src/RaspiCLI.cpp.o
+/usr/bin/ranlib /home/virati/projects/ros_test/devel/lib/libraspicli.a

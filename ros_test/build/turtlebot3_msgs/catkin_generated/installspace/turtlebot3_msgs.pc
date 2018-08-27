@@ -1,0 +1,8 @@
+prefix=/home/virati/projects/ros_test/install
+
+Name: turtlebot3_msgs
+Description: Description of turtlebot3_msgs
+Version: 0.1.3
+Cflags: -I/home/virati/projects/ros_test/install/include
+Libs: -L/home/virati/projects/ros_test/install/lib 
+Requires: std_msgs sensor_msgs std_srvs message_runtime

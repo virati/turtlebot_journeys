@@ -1,0 +1,2 @@
+set(turtlebot3_msgs_MESSAGE_FILES "/home/virati/projects/ros_test/src/turtlebot3_msgs/msg/SensorState.msg;/home/virati/projects/ros_test/src/turtlebot3_msgs/msg/MotorPower.msg;/home/virati/projects/ros_test/src/turtlebot3_msgs/msg/VersionInfo.msg;/home/virati/projects/ros_test/src/turtlebot3_msgs/msg/PanoramaImg.msg")
+set(turtlebot3_msgs_SERVICE_FILES "/home/virati/projects/ros_test/src/turtlebot3_msgs/srv/TakePanorama.srv;/home/virati/projects/ros_test/src/turtlebot3_msgs/srv/SetFollowState.srv")

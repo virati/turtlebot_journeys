@@ -1,0 +1,8 @@
+prefix=/home/virati/projects/ros_test/devel
+
+Name: raspicam_node
+Description: Description of raspicam_node
+Version: 0.2.1
+Cflags: -I/home/virati/projects/ros_test/devel/include -I/home/virati/projects/ros_test/src/raspicam_node/include
+Libs: -L/home/virati/projects/ros_test/devel/lib 
+Requires: 

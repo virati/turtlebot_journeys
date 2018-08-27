@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/virati/projects/ros_test/src/raspicam_node/include/RaspiCLI.h
+
+/home/virati/projects/ros_test/src/raspicam_node/src/RaspiCLI.cpp
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+memory.h
+-
+interface/vcos/vcos.h
+/home/virati/projects/ros_test/src/raspicam_node/src/interface/vcos/vcos.h
+RaspiCLI.h
+/home/virati/projects/ros_test/src/raspicam_node/src/RaspiCLI.h
+

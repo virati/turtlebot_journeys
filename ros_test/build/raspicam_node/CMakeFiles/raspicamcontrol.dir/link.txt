@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/virati/projects/ros_test/devel/lib/libraspicamcontrol.a  CMakeFiles/raspicamcontrol.dir/src/RaspiCamControl.cpp.o
+/usr/bin/ranlib /home/virati/projects/ros_test/devel/lib/libraspicamcontrol.a

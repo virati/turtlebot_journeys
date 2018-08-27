@@ -1,0 +1,8 @@
+prefix=/home/virati/projects/ros_test/devel
+
+Name: turtlebot3_navigation
+Description: Description of turtlebot3_navigation
+Version: 0.1.6
+Cflags: 
+Libs: -L/home/virati/projects/ros_test/devel/lib 
+Requires: 
